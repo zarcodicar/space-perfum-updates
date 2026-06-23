@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "packageUrl": "https://github.com/zarcodicar/space-perfum-updates/releases/download/v1.0.5/Space-Perfum-App-Segura-Para-Enviar-1.0.5.zip",
-  "notes": "Mueve costo, multiplicador, precio de venta y ganancia estimada a Inventario. Elimina la seccion separada de Completar precios."
+  "version": "1.0.6",
+  "packageUrl": "https://github.com/zarcodicar/space-perfum-updates/releases/download/v1.0.6/Space-Perfum-App-Segura-Para-Enviar-1.0.6.zip",
+  "notes": "Agrega actualizacion desde la app, mejora el inicio de sesion y permite cambiar nombre, slogan y logo desde Ajustes."
 }
