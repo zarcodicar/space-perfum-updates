@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "packageUrl": "https://github.com/zarcodicar/space-perfum-updates/releases/download/v1.0.8/Space-Perfum-App-Segura-Para-Enviar-1.0.8.zip",
-  "notes": "Agrega gastos fijos mensuales y calcula la ganancia neta real por periodos diario, semanal, quincenal y mensual."
+  "version": "1.0.9",
+  "packageUrl": "https://github.com/zarcodicar/space-perfum-updates/releases/download/v1.0.9/Space-Perfum-App-Segura-Para-Enviar-1.0.9.zip",
+  "notes": "Agrega gastos fijos y ganancia neta por periodo. Tambien corrige la instalacion de actualizaciones desde la aplicacion."
 }
