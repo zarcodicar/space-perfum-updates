@@ -1,5 +1,6 @@
 {
-  "version": "1.0.9",
-  "packageUrl": "https://github.com/zarcodicar/space-perfum-updates/releases/download/v1.0.9/Space-Perfum-App-Segura-Para-Enviar-1.0.9.zip",
-  "notes": "Agrega gastos fijos y ganancia neta por periodo. Tambien corrige la instalacion de actualizaciones desde la aplicacion."
+  "version": "1.0.10",
+  "packageUrl": "https://github.com/zarcodicar/space-perfum-updates/releases/download/v1.0.10/Space-Perfum-App-Segura-Para-Enviar-1.0.10.zip",
+  "notes": "Corrige ventas ocultas al eliminar productos y evita diferencias entre el historial y la ganancia neta."
 }
+
